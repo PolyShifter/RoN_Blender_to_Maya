@@ -22,7 +22,7 @@ When running the tool, make sure to select your `Blender.exe` file, the `psk` or
 After clicking the `Convert!` button it will be greyed out and a loading bar will appear. When the bar has filled you should now have
 your `Convert!` button replaced with an `Import FBX` button. Click that button and it will bring in that `.fbx` file you saved and clean up it's naming and hierarchy.
 
-NOTE!! Your root bone for your skeleton, should be either `J_Gun` (for weapon meshes) or `Root` (for body meshes) or something like that. I have encountered some files like the `Fiveseven` that actually has an additional root bone before `J_Gun`. But simply unparenting `J_Gun` to the world and deleting the other bone, we then have a working skeleton for RorN.
+NOTE!! Your root bone for your skeleton, should be either `J_Gun` (for weapon meshes) or `root` (for body meshes) or something like that. I have encountered some files like the `Fiveseven` that actually has an additional root bone before `J_Gun`. But simply unparenting `J_Gun` to the world and deleting the other bone, we then have a working skeleton for RorN.
 
 Happy modding and I hope this works well for you!
 If you have any questions or need a fix for this hit me up here or on discord:
