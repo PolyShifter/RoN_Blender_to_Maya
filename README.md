@@ -27,3 +27,6 @@ NOTE!! Your root bone for your skeleton, should be either `J_Gun` (for weapon me
 Happy modding and I hope this works well for you!
 If you have any questions or need a fix for this hit me up here or on discord:
 PolyShifter#4816
+
+
+![](btom_psk_to_fbx.gif)
